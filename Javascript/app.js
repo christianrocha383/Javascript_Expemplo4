@@ -11,5 +11,3 @@ const tarantinoMovies = [
     { name: 'Kill Bill: Volume 1', release: 2003 }
   ]
    const ano = tarantinoMovies.filter (filme => filme.release < 2000)
-  
-console.log (ano)
